@@ -1,5 +1,3 @@
-
 nibabel
 nilearn
-
 networkx[default]
