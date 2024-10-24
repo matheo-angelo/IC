@@ -1,5 +1,6 @@
 .venv/
-data/
+project_data/
+Documentos/
 __pycache__/
 *.pyc
 *.pyo
