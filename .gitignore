@@ -1,6 +1,7 @@
 .venv/
 project_data/
 Documentos/
+CS224W/
 __pycache__/
 *.pyc
 *.pyo
