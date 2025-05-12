@@ -6,3 +6,4 @@ It has the following folders:
 - **CS224W:** Material from the Stanford CS224W Course on Graph Machine Learning, for didatic purposes.
 - **Code:** Source code of the experiments.
 - **Documents:** Research proposals and reports from the project.
+- **Publications:** Posters and papers resulted from the ongoing research.
